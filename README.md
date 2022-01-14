@@ -18,17 +18,19 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 ## Schedule
 
-Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network.
+Week 16 will focus on basics within TensorFlow, week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
 
-|   Week   | Content |
-| :------: | ------- |
-| [16][w1] |         |
-| [17][w2] |         |
-| [18][w3] |         |
-| [19][w4] |         |
-| [20][w5] |         |
-| [21][w6] |         |
-| [22][w7] |         |
+(maybe squeeze backprop into ML course)
+
+|   Week   | Content                                                                       |
+| :------: | ----------------------------------------------------------------------------- |
+| [16][w1] | Inspiration, TF basics, Tensors, Backpropagation?                             |
+| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab 1 |
+| [18][w3] | Transfer learning, lab 1                                                      |
+| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project?                      |
+| [20][w5] | Transformers, NLP Project?                                                    |
+| [21][w6] | NLP project - presentation + report?                                          |
+| [22][w7] | GAN intro, RL intro                                                           |
 
 [w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md
