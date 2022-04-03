@@ -11,6 +11,11 @@
    ```  
 3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, **tensorflow** to this pipenv
 
+When training the network, we will use Kaggles jupyter notebooks, which gives ca 30h of GPU time each week. 
+
+Optional local installation for GPU support if your computer has an Nvidia GPU:
+- [Setup CUDA, cuDNN, tensorflow-gpu - towardsdatascience](https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781)
+
 ## Video guides :video_camera:
 
 
