@@ -1,4 +1,4 @@
-# Week 9 - Resources
+# Week 19 - Resources
 
 [:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
 

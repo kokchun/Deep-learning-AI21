@@ -1,4 +1,4 @@
-# Week 6 - Resources
+# Week 16 - Resources
 
 [:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
 
@@ -9,7 +9,7 @@
    ```python 
    pipenv shell
    ```  
-3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn** to this pipenv
+3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, **tensorflow** to this pipenv
 
 ## Video guides :video_camera:
 
@@ -18,7 +18,12 @@
 
 
 ## Theory :book:
-- [ISLRv2 pp 59-82 - linear regression](https://www.statlearning.com/)
+- [Backpropagation - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [Backpropagation - wikipedia](https://en.wikipedia.org/wiki/Backpropagation#Motivation)
+
+Mathematical prerequisite:
+- [Gradient - wikipedia svenska](https://sv.wikipedia.org/wiki/Gradient_(matematik))
+- [Partiell derivata - wikipedia svenska](https://sv.wikipedia.org/wiki/Partiell_derivata)
 
 ## Exercises :running:
 

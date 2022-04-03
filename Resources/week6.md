@@ -1,4 +1,4 @@
-# Week 11 - Resources
+# Week 21 - Resources
 
 [:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
 
