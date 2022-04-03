@@ -20,6 +20,10 @@
 ## Theory :book:
 - [Backpropagation - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Backpropagation - wikipedia](https://en.wikipedia.org/wiki/Backpropagation#Motivation)
+- [TensorFlow basics - TensorFlow](https://www.tensorflow.org/guide/basics)
+- [Introduction to Tensors - TensorFlow](https://www.tensorflow.org/guide/tensor)
+- [Variables - TensorFlow](https://www.tensorflow.org/guide/variable)
+- [Training loops - TensorFlow](https://www.tensorflow.org/guide/basic_training_loops)
 
 Mathematical prerequisite:
 - [Gradient - wikipedia svenska](https://sv.wikipedia.org/wiki/Gradient_(matematik))
