@@ -22,15 +22,15 @@ Week 16 will focus on basics within TensorFlow, week 17-18 on computer vision an
 
 (maybe squeeze backprop into ML course)
 
-|   Week   | Content                                                                       |
-| :------: | ----------------------------------------------------------------------------- |
-| [16][w1] | Inspiration, TF basics, Tensors, Backpropagation, Kaggle setup                |
-| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab 1 |
-| [18][w3] | Transfer learning, lab 1                                                      |
-| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project                       |
-| [20][w5] | Transformers, NLP Project                                                     |
-| [21][w6] | NLP project - presentation & scientific poster                                |
-| [22][w7] | GAN intro, Reinforcement learning intro                                       |
+|   Week   | Content                                                                         |
+| :------: | ------------------------------------------------------------------------------- |
+| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout |
+| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab 1   |
+| [18][w3] | Transfer learning, lab 1                                                        |
+| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project                         |
+| [20][w5] | Transformers, NLP Project                                                       |
+| [21][w6] | NLP project - presentation & scientific poster                                  |
+| [22][w7] | GAN intro, Reinforcement learning intro                                         |
 
 [w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md

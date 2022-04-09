@@ -25,6 +25,8 @@ Optional local installation for GPU support if your computer has an Nvidia GPU:
 ## Theory :book:
 - [Backpropagation - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Backpropagation - wikipedia](https://en.wikipedia.org/wiki/Backpropagation#Motivation)
+
+TensorFlow basics (to get understanding of how TensorFlow works)
 - [TensorFlow basics - TensorFlow](https://www.tensorflow.org/guide/basics)
 - [Introduction to Tensors - TensorFlow](https://www.tensorflow.org/guide/tensor)
 - [Variables - TensorFlow](https://www.tensorflow.org/guide/variable)
