@@ -20,8 +20,6 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 Week 16 will focus on basics within TensorFlow, week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
 
-(maybe squeeze backprop into ML course)
-
 |   Week   | Content                                                                         |
 | :------: | ------------------------------------------------------------------------------- |
 | [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout |
