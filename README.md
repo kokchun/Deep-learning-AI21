@@ -23,9 +23,9 @@ Week 16 will focus on basics within TensorFlow, week 17-18 on computer vision an
 |   Week   | Content                                                                         |
 | :------: | ------------------------------------------------------------------------------- |
 | [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout |
-| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab 1   |
-| [18][w3] | Transfer learning, lab 1                                                        |
-| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project                         |
+| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab     |
+| [18][w3] | Transfer learning, lab                                                          |
+| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project intro, lab              |
 | [20][w5] | Transformers, NLP Project                                                       |
 | [21][w6] | NLP project - presentation & scientific poster                                  |
 | [22][w7] | GAN intro, Reinforcement learning intro                                         |
