@@ -31,7 +31,21 @@ Optional local installation for GPU support if your computer has an Nvidia GPU:
 
 - [Backpropagation - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Backpropagation - wikipedia](https://en.wikipedia.org/wiki/Backpropagation#Motivation)
+- [Multilayered Perceptron - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- [Activation function - wikipedia](https://en.wikipedia.org/wiki/Activation_function)
 - [Configure layers and nodes in NN - machinelearningmastery](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
+- [Adam optimizer - wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam)
+- [Cross-entropy - wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
+- [Cross-entropy - machinelearningmastery](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
+- [None in model - stackoverflow](https://stackoverflow.com/questions/47240348/what-is-the-meaning-of-the-none-in-model-summary-of-keras)
+
+Keras
+
+- [Sequential model guide - TensorFlow](https://www.tensorflow.org/guide/keras/sequential_model)
+- [InputLayer Keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/layers/InputLayer)
+- [Dense layer Keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+- [Visualize model training history - machinelearningmastery](https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
+- [EarlyStopping - Keras](https://keras.io/api/callbacks/early_stopping/)
 
 TensorFlow basics (to get understanding of how pure TensorFlow works)
 
