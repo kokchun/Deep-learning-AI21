@@ -24,6 +24,12 @@ Optional local installation for GPU support if your computer has an Nvidia GPU:
 - [Backpropagation - 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
 - [Backpropagation calculus - 3Blue1Brown](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
 - [How many hidden layers and nodes? - DigitalSreeni](https://www.youtube.com/watch?v=bqBRET7tbiQ)
+- [Cross entropy - normalizednerd](https://www.youtube.com/watch?v=gIx974WtVb4)
+
+Improving on gradient descent
+- [Gradient descent with momentum - Andrew Ng](https://www.youtube.com/watch?v=k8fTYJPd3_I)
+- [RMSProp optimization algorithm - Andrew Ng](https://www.youtube.com/watch?v=_e-LFe_igno)
+- [Adam optimization algorithm - Andrew Ng](https://www.youtube.com/watch?v=JXQT_vxqwIs)
 
 ## Lecture notes :book:
 
