@@ -1,10 +1,6 @@
 # Deep learning - AI21
 
-Deep learning course
-
-## UNDER CONSTRUCTION
-
-This is a course with focus of learning concepts in deep learning using primarily **TensorFlow**, but other tools will also be used. This course will build upon prior skills in:
+This is a course with focus of learning concepts in deep learning both theory and practice using primarily **Keras** in TensorFlow, but other tools will also be used. This course will build upon prior skills in:
 
 - pandas
 - machine learning
@@ -18,17 +14,17 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 ## Schedule
 
-Week 16 will focus on basics within TensorFlow, week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
+Week 16 will focus on basic , week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
 
 |   Week   | Content                                                                         |
 | :------: | ------------------------------------------------------------------------------- |
 | [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout |
-| [17][w2] | Image preprocessing, CNN, regularizations, hyperparameter optimization, lab     |
+| [17][w2] | Image processing, CNN, regularizations, hyperparameter optimization, lab        |
 | [18][w3] | Transfer learning, lab                                                          |
 | [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project intro, lab              |
 | [20][w5] | Transformers, NLP Project                                                       |
-| [21][w6] | NLP project - presentation & scientific poster                                  |
-| [22][w7] | GAN intro, Reinforcement learning intro                                         |
+| [21][w6] | NLP project                                                                     |
+| [22][w7] | NLP project seminar, GAN intro, Reinforcement learning intro                    |
 
 [w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md
