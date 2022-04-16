@@ -43,7 +43,13 @@ Improving on gradient descent
 - [Adam optimizer - wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam)
 - [Cross-entropy - wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
 - [Cross-entropy - machinelearningmastery](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
-- [None in model - stackoverflow](https://stackoverflow.com/questions/47240348/what-is-the-meaning-of-the-none-in-model-summary-of-keras)
+- [Vanishing gradient problem - wikipedia](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+- [Probabilistic machine learning draft pp. 419-444 - Murphy (2022)](https://probml.github.io/pml-book/book1.html)
+- [Softmax function - wikipedia](https://en.wikipedia.org/wiki/Softmax_function)
+- [How many hidden layers/neurons - Gad (2018) towardsdatascience](https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e)
+- [Rule of thumb - Ranjan (2019) towardsdatascience](https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af)
+- [Convolution - wikipedia](https://en.wikipedia.org/wiki/Convolution)
+
 
 Keras
 
@@ -52,6 +58,9 @@ Keras
 - [Dense layer Keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
 - [Visualize model training history - machinelearningmastery](https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
 - [EarlyStopping - Keras](https://keras.io/api/callbacks/early_stopping/)
+- [None in model - stackoverflow](https://stackoverflow.com/questions/47240348/what-is-the-meaning-of-the-none-in-model-summary-of-keras)
+- [Sparse categorical cross-entropy keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy?version=nightly)
+- [Classification metrics in Keras - machinelearningmastery](https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/)
 
 TensorFlow basics (to get understanding of how pure TensorFlow works)
 
