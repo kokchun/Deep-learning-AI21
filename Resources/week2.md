@@ -28,6 +28,9 @@ Note that a Kaggle session is limited to around 6 hours, and is also dependant o
 Datasets
 - [CIFAR-10 dataset - cstoronto](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+Keras 
+- [ModelCheckpoint - Keras](https://keras.io/api/callbacks/model_checkpoint/)
+
 ## Research articles 
 - [Rethinking the Inception Architecture for Computer Vision - Szegedy et. al. (2015)](https://arxiv.org/pdf/1512.00567.pdf)
 - [Return of the Devin in the Details: Delving Deep into Convolutional Nets - Chatfield et. al. (2014)](https://arxiv.org/pdf/1405.3531.pdf)
