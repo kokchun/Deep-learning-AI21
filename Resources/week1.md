@@ -32,6 +32,9 @@ Improving on gradient descent
 - [Adam optimization algorithm - Andrew Ng](https://www.youtube.com/watch?v=JXQT_vxqwIs)
 
 ## Lecture notes :book:
+- [MLP for regression](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec0-MLP_regression.ipynb)
+- [MLP for classification](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec0.1-MLP_classification.ipynb)
+- [MLP for image classification](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec1-MLP_image_classification.ipynb)
 
 ## Theory :book:
 
@@ -75,3 +78,5 @@ Mathematical prerequisite:
 - [Partiell derivata - wikipedia svenska](https://sv.wikipedia.org/wiki/Partiell_derivata)
 
 ## Exercises :running:
+- [MLP exercises](https://github.com/kokchun/Deep-learning-AI21/blob/main/Exercises/E0-MLP.ipynb)
+- [MLP image classification exercises](https://github.com/kokchun/Deep-learning-AI21/blob/main/Exercises/E1-MLP_image_classification.ipynb)
