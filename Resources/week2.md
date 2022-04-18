@@ -39,6 +39,7 @@ Keras
 - [VGG net - Simonyan, Zisserman (2015)](https://arxiv.org/pdf/1409.1556v6.pdf)
 - [Inception - Szegedy et. al. (2015)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 - [Resnet - He et. al. (2015)](https://arxiv.org/pdf/1512.03385.pdf)
+- [Xception - Chollet (2017)](https://arxiv.org/pdf/1610.02357.pdf)
 
 ## Exercises :running:
 
