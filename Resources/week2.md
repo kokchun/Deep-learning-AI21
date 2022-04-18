@@ -22,6 +22,7 @@ Note that a Kaggle session is limited to around 6 hours, and is also dependant o
 - [CNN - wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Data augmentation - wikipedia](https://en.wikipedia.org/wiki/Data_augmentation)
 - [Transfer learning - wikipedia](https://en.wikipedia.org/wiki/Transfer_learning)
+- [Gentle introduction to transfer learning - Brownlee (2017) machinelearningmastery](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 - [Transfer learning in CNN (blog article) - Koehrsen (2018) towardsdatascience](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 
 Datasets
@@ -30,6 +31,7 @@ Datasets
 ## Research articles 
 - [Rethinking the Inception Architecture for Computer Vision - Szegedy et. al. (2015)](https://arxiv.org/pdf/1512.00567.pdf)
 - [Return of the Devin in the Details: Delving Deep into Convolutional Nets - Chatfield et. al. (2014)](https://arxiv.org/pdf/1405.3531.pdf)
+- [VGG net - Simonyan, Zisserman (2015)](https://arxiv.org/pdf/1409.1556v6.pdf)
 
 
 ## Exercises :running:
