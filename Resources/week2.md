@@ -19,8 +19,14 @@ Note that a Kaggle session is limited to around 6 hours, and is also dependant o
 
 
 ## Theory :book:
-- [CNN - wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+Image processing
+- [Image kernels explained visually - setosa.io](https://setosa.io/ev/image-kernels/)
+- [Kernel image processing - wikipedia](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 - [Data augmentation - wikipedia](https://en.wikipedia.org/wiki/Data_augmentation)
+  
+CNN
+- [CNN - wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Transfer learning - wikipedia](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Gentle introduction to transfer learning - Brownlee (2017) machinelearningmastery](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 - [Transfer learning in CNN (blog article) - Koehrsen (2018) towardsdatascience](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
