@@ -16,15 +16,15 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 Week 16 will focus on basic , week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
 
-|   Week   | Content                                                                         |
-| :------: | ------------------------------------------------------------------------------- |
-| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout |
-| [17][w2] | Image processing, CNN, regularizations, hyperparameter optimization, lab        |
-| [18][w3] | Transfer learning, lab                                                          |
-| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project intro, lab              |
-| [20][w5] | Transformers, NLP Project                                                       |
-| [21][w6] | NLP project                                                                     |
-| [22][w7] | NLP project seminar, GAN intro, Reinforcement learning intro                    |
+|   Week   | Content                                                                               |
+| :------: | ------------------------------------------------------------------------------------- |
+| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout       |
+| [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, lab |
+| [18][w3] | Transfer learning, lab                                                                |
+| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project intro, lab                    |
+| [20][w5] | Transformers, NLP Project                                                             |
+| [21][w6] | NLP project                                                                           |
+| [22][w7] | NLP project seminar, GAN intro, Reinforcement learning intro                          |
 
 [w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md

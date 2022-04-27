@@ -32,12 +32,15 @@ CNN
 - [Transfer learning in CNN (blog article) - Koehrsen (2018) towardsdatascience](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 - [Test time augmentation (TTA) - Hubens (2019) towardsdatascience](https://towardsdatascience.com/test-time-augmentation-tta-and-how-to-perform-it-with-keras-4ac19b67fb4d)
 - [Data augmentation in test set? - stackoverflow discussion](https://stackoverflow.com/questions/48029542/data-augmentation-in-test-validation-set)
+- [CNN for visual recognition - CS231](https://cs231n.github.io/convolutional-networks/)
+- [CIFAR10 - Krizhevsky et. al.](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 Datasets
 - [CIFAR-10 dataset - cstoronto](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 Keras 
 - [ModelCheckpoint - Keras](https://keras.io/api/callbacks/model_checkpoint/)
+- [Conv2D layer - keras](https://keras.io/api/layers/convolution_layers/convolution2d/)
 
 ## Research articles 
 - [Rethinking the Inception Architecture for Computer Vision - Szegedy et. al. (2015)](https://arxiv.org/pdf/1512.00567.pdf)
