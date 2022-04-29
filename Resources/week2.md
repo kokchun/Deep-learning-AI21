@@ -16,7 +16,9 @@ Note that a Kaggle session is limited to around 6 hours, and is also dependant o
 
 
 ## Lecture notes :book:
-
+- [Image kernels and file handling](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec2.0-Image_kernels.ipynb)
+- [CNN intro](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec3-CNN_intro.ipynb)
+- [Data augmentation](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec4-Data_augmentation.ipynb)
 
 ## Theory :book:
 
@@ -26,6 +28,7 @@ Image processing
 - [Data augmentation - wikipedia](https://en.wikipedia.org/wiki/Data_augmentation)
   
 CNN
+- [CNN - Goodfellow et. al. (2016) Deeplearning book](https://www.deeplearningbook.org/contents/convnets.html)
 - [CNN - wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Transfer learning - wikipedia](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Gentle introduction to transfer learning - Brownlee (2017) machinelearningmastery](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
@@ -51,4 +54,5 @@ Keras
 - [Xception - Chollet (2017)](https://arxiv.org/pdf/1610.02357.pdf)
 
 ## Exercises :running:
+Work with the lab.
 
