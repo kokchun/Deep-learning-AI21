@@ -20,6 +20,10 @@
 - [Keras applications](https://keras.io/api/applications/#usage-examples-for-image-classification-models)
 - [Remove layers keras - stackoverflow](https://stackoverflow.com/questions/41668813/how-to-add-and-remove-new-layers-in-keras-after-loading-weights)
 
+Research articles
+- [Survey on transfer learning - Zhuang et. al. (2020)](https://arxiv.org/pdf/1911.02685.pdf)
+
+
 ## Exercises :running:
 
 Work with the lab
