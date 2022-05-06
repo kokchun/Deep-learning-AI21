@@ -21,10 +21,10 @@ Week 16 will focus on basic , week 17-18 on computer vision and convolutional ne
 | [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout       |
 | [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, lab |
 | [18][w3] | Transfer learning, lab                                                                |
-| [19][w4] | Text preprocessing, RNN, LSTM, Autoencoder, NLP Project intro, lab                    |
-| [20][w5] | Transformers, NLP Project                                                             |
-| [21][w6] | NLP project                                                                           |
-| [22][w7] | NLP project seminar, GAN intro, Reinforcement learning intro                          |
+| [19][w4] | Text preprocessing, RNN, LSTM, Project intro, lab                                     |
+| [20][w5] | Transformers, Project                                                                 |
+| [21][w6] | Project                                                                               |
+| [22][w7] | Project seminar, GAN intro, Reinforcement learning intro                              |
 
 [w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md
