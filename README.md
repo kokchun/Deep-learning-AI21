@@ -21,7 +21,7 @@ Week 16 will focus on basic , week 17-18 on computer vision and convolutional ne
 | [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout       |
 | [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, lab |
 | [18][w3] | Transfer learning, lab                                                                |
-| [19][w4] | RNN, LSTM, time series, text preprocessing, project intro, lab                         |
+| [19][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, lab            |
 | [20][w5] | Transformers, project                                                                 |
 | [21][w6] | Project                                                                               |
 | [22][w7] | Project seminar, GAN intro, Reinforcement learning intro                              |
