@@ -13,6 +13,7 @@ tensorflow = "*"
 ipykernel = "*"
 black = "*"
 opencv-python = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
