@@ -14,7 +14,9 @@
 - [LSTM - wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)
 - [LSTM - Colah (2015) blog post](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Time series forecasting - Brownlee (2016) machinelearningmastery](https://machinelearningmastery.com/time-series-forecasting/)
-  
+- [TimeSeriesGenerator - Brownlee (2016) machinelearningmastery](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
+- [TimeSeriesGenerator keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/sequence/TimeseriesGenerator?version=nightly) 
+
 NLP
 - [Natural language processing - wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [Tokenization - wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization)
