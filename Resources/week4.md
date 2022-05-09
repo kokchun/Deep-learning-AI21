@@ -30,7 +30,7 @@ NLP
 Research articles 
 - [Understanding LSTM - Staudemeyer, Morris (2019)](https://arxiv.org/pdf/1909.09586.pdf)
 - [word2vec - Mikolov et. al. (2013)](https://arxiv.org/pdf/1301.3781.pdf)
-
+- [word2vec parameter learning explained - Rong (2016)](https://arxiv.org/pdf/1411.2738.pdf)
 
 ## Exercises :running:
 
