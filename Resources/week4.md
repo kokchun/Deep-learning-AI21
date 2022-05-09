@@ -26,6 +26,7 @@ NLP
 - [Word embeddings - wikipedia](https://en.wikipedia.org/wiki/Word_embedding)
 - [N-grams - wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Huffman coding - wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
+- [word2vec skip gram model - McCormick (2016) blog post](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 Research articles 
 - [Understanding LSTM - Staudemeyer, Morris (2019)](https://arxiv.org/pdf/1909.09586.pdf)
