@@ -6,7 +6,7 @@
 
 
 ## Lecture notes :book:
-
+- [RNN](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec6-RNN.ipynb)
 
 ## Theory :book:
 
@@ -23,6 +23,9 @@ NLP
 - [Lemmatization - wikipedia](https://en.wikipedia.org/wiki/Lemmatisation)
 - [word2vec - wikipedia](https://en.wikipedia.org/wiki/Word2vec)
 - [Text corpus - wikipedia](https://en.wikipedia.org/wiki/Text_corpus)
+- [Word embeddings - wikipedia](https://en.wikipedia.org/wiki/Word_embedding)
+- [N-grams - wikipedia](https://en.wikipedia.org/wiki/N-gram)
+- [Huffman coding - wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
 
 Research articles 
 - [Understanding LSTM - Staudemeyer, Morris (2019)](https://arxiv.org/pdf/1909.09586.pdf)
@@ -31,4 +34,4 @@ Research articles
 
 ## Exercises :running:
 
-Work with lab
+Work with lab, start with project
