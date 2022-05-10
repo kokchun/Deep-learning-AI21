@@ -9,7 +9,7 @@
 
 
 ## Theory :book:
-
+- [K, Q, V in attention - CrossValidated forum discussions](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
 
 ## Exercises :running:
-
+Work with the project
