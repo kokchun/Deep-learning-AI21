@@ -14,7 +14,7 @@
 - [Know Your Data](https://knowyourdata-tfds.withgoogle.com/#dataset=tf_flowers&tab=DATASETS)
 - [tf_flowers dataset - TensorFlow](https://www.tensorflow.org/datasets/catalog/tf_flowers)
 - [TensorSpec object - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/TensorSpec?version=nightly)
-- [Image data preprocessing - TensorFlow](https://link)
+- [ImageDataGenerator - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator?version=nightly)
 - [transfer learning flower set- towardsdatascience](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
 - [ImageNet](https://www.image-net.org/index.php)
 - [Keras applications](https://keras.io/api/applications/#usage-examples-for-image-classification-models)

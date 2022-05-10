@@ -27,11 +27,13 @@ NLP
 - [N-grams - wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Huffman coding - wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
 - [word2vec skip gram model - McCormick (2016) blog post](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Encoder-decoder - Nechu (2020) towardsdatascience blog post](https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a)
 
 Research articles 
 - [Understanding LSTM - Staudemeyer, Morris (2019)](https://arxiv.org/pdf/1909.09586.pdf)
 - [word2vec - Mikolov et. al. (2013)](https://arxiv.org/pdf/1301.3781.pdf)
 - [word2vec parameter learning explained - Rong (2016)](https://arxiv.org/pdf/1411.2738.pdf)
+- [Google neural machine translation - Wu et. al (2016)](https://arxiv.org/pdf/1609.08144.pdf)
 
 ## Exercises :running:
 
