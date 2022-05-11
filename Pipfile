@@ -16,6 +16,7 @@ opencv-python = "*"
 tensorflow-datasets = "*"
 nltk = "*"
 pyjokes = "*"
+gensim = "*"
 
 [dev-packages]
 
